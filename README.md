@@ -1,2 +1,2 @@
 # add_func
-How to insert data in DATABASE
+How to insert data into the DATABASE
